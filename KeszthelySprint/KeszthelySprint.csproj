@@ -8,15 +8,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="C:\Users\szabov.22d\Desktop\KeszthelySprint\Program.cs" Link="Program.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
     <Compile Include="C:\Users\szabov.22d\Desktop\Versenyzo.cs" Link="Versenyzo.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="Program.cs">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Compile>
     <Compile Update="Versenyzo.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
